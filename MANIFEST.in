@@ -1,4 +1,0 @@
-recursive-include mcgpufi_mo/cbuild/cpu_algorithm/single lib*
-recursive-include mcgpufi_mo/cbuild/cpu_algorithm/double lib*
-recursive-include mcgpufi_mo/cbuild/gpu_algorithm/single lib*
-recursive-include mcgpufi_mo/cbuild/gpu_algorithm/double lib*
